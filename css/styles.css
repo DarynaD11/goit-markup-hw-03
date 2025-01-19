@@ -161,7 +161,9 @@ text-align: center;
 .first-section-btn:hover, .first-section-btn:focus {
     background-color: #404bbf;
 }
-
+.section-two {
+    padding: 120px 0;
+}
 .visually-hidden {
     position: absolute;
     width: 1px;
@@ -236,6 +238,9 @@ text-align: center;
     line-height: 1.50;
     letter-spacing: 0.02em;
     text-align: center;
+}
+.section-four {
+    padding: 120px 0;
 }
 
 .portfolio {
